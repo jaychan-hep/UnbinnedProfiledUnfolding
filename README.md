@@ -1,2 +1,2 @@
 # UnbinnedProfiledUnfolding
-Unbinned profiled unfolding
+Code to reproduce example results for the Unbinned profiled unfolding. The code uses Jupyter notebooks and employs PyTorch for machine learning implementation, NumPy for data manipulation and Matplotlib for visualization. All of the machine learning is performed on a GeForce GTX 1080 Ti Graphical Processing Unit (GPU) and reproducing the entire notebook takes about 3 hours. The physics data sets are hosted on Zenodo at https://zenodo.org/record/7553271.
